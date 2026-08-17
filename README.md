@@ -44,6 +44,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 2. Create a basic layout for the html to include tables, headings and semantic tag elements.
 3. Made an external css stylesheet and linked to the index.html file, and moved the .attribution class properties to the external css stylesheet.
 4. Set up the readme.md file to be updated throughout project. 
+5. Add in css styling for main content and for the footer.
+
 
 
 ### Built with

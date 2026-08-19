@@ -2,9 +2,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100vw;
     min-height: 100vh;
-    background-color: #f3e6d8; 
+    margin: 0;
+    background-color: #f3e6d8;
     font-family: "Outfit", sans-serif;
     color: #5f574e;
 }
@@ -41,7 +41,8 @@ h1 {
     display: flex;
     flex-direction: column;
     background-color: #fff;
-    width: 46rem;
+    width: 100%;
+    max-width: 46rem;
     height: auto;
     border-radius: 24px;
     padding: 2.5rem;
@@ -50,17 +51,17 @@ h1 {
 
 /* css for instrections section */
 .instructions-section {
-  font-family: sans-serif; 
+    font-family: sans-serif; 
 }
 
 .instructions-list {
-  padding-left: 1.5rem;
+    padding-left: 1.5rem;
 }
 
 /* Individual step styling */
 .instructions-list li {
-  line-height: 1.6;
-  padding-left: 0.5rem;
+    line-height: 1.6;
+    padding-left: 0.5rem;
 }
 
 /* Highlight the key action phrases */
@@ -116,8 +117,8 @@ h1 {
 
 /* Custom bullet color and style */
 .bullet-list li::marker {
-  color: #854632; 
-  font-size: 0.8rem; /* Makes the bullet scale nicely with text */
+    color: #854632; 
+    font-size: 0.8rem; /* Makes the bullet scale nicely with text */
 }
 
 footer {
@@ -144,6 +145,7 @@ footer {
 .attribution a:focus {
     color: #7b284f;
 }
+
 
 /* list of colors used below -
 

@@ -15,9 +15,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Useful resources](#useful-resources)
   - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -25,13 +23,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -45,6 +37,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 3. Made an external css stylesheet and linked to the index.html file, and moved the .attribution class properties to the external css stylesheet.
 4. Set up the readme.md file to be updated throughout project. 
 5. Add in css styling for main content and for the footer.
+6. Modified the css to adjust the layout to make the page more responsive and better align with the mock up designs. 
+7. Add in the css custom properties for the challenge colors.
+8. update the readme file and get ready for submission.
+
 
 
 
@@ -53,71 +49,35 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+During this challenge, I learned that running my files through chat gpt is somewhat helpful, but also, not really... it doesn't get it right too often. I am sure claude and other dedicated programming/coding AI would be better, I just want to learn all that first. I do think it was good for me to actually fix the code that chat gpt messed up. That helped to solidify what I already know.  I had to fix so much too. I still refer to w3schools and mdn for reference, like custom css properties.  
 
-To see how you can add code snippets, see below:
+In this challenge, I learned custom css properties and how to set them up. Never used those before, and honestly, didn't even know they existed. It was quite nice to use it. I also tried out some more flexbox because I'd really like to be fully capable of setting a flexbox layout anytime I feel it would be best used. 
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+For future challenges, I'd like to continue to practice using css custom properties and see just how in depth I can get with those. I'd also like to continue to work on layouts. I have more grid experience but it's been a while since I've used it so I'd like to do a challenge that would suit that. Learning more about Psuedo-elements too is on my list of what I'd like to focus on next.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [MDN CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascading_variables/Using_custom_properties) - Got more info about how to set custom css properties here and I will keep this resource for future reference.
+- [CSS-Tricks Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Used this as a reference for css flexbox info. 
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ### AI Collaboration
 
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
-
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
-- What worked well? What didn't?
-
-**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
+I used ChatGPT to troubleshoot some issues I was having with the layout being responsive and to look for anything I may have missed in the html setup, and also to learn about css custom properties. It did help somewhat, but there were a few misleading suggestions that I had to fix up on my own. It was handy, but I absolutely would not use this tool on its own. I had far better luck looking up info on MDN and W3Schools. 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [ITSO Code Design - Andrea Dyson](https://itsocodedesign.ca/)
+- Frontend Mentor - [@Momzilla007](https://www.frontendmentor.io/profile/Momzilla007)
+- GitHub - [Momzilla007](https://github.com/Momzilla007)
+- LinkedIn - [Andrea Dyson](https://www.linkedin.com/in/andrea-dyson-33994056/)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
-## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**

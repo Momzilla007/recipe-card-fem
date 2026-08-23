@@ -39,9 +39,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 5. Add in css styling for main content and for the footer.
 6. Modified the css to adjust the layout to make the page more responsive and better align with the mock up designs. 
 7. Add in the css custom properties for the challenge colors.
-8. update the readme file and get ready for submission.
-
-
+8. Update the readme file and get ready for submission.
+9. Validation check on HTML and CSS. 
 
 
 ### Built with

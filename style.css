@@ -129,7 +129,7 @@ h1 {
 
 /* Custom bullet color and style */
 .bullet-list li::marker {
-    color: #854632; 
+    color: var(--color-accent-secondary); 
     font-size: 0.8rem; 
 }
 
@@ -155,7 +155,7 @@ footer {
 
 .attribution a:hover,
 .attribution a:focus {
-    color: #7b284f;
+    color: var(--color-accent);
 }
 
 @media (max-width: 600px) {

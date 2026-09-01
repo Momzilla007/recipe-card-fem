@@ -21,14 +21,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![](./recipe-card-screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Momzilla007/recipe-card-fem.git)
+- Live Site URL: [Netlify](https://recipe-card-fem.netlify.app/)
 
 ## My process
 
@@ -40,7 +39,9 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 6. Modified the css to adjust the layout to make the page more responsive and better align with the mock up designs. 
 7. Add in the css custom properties for the challenge colors.
 8. Update the readme file and get ready for submission.
-9. Validation check on HTML and CSS. 
+9. Validation check on HTML and CSS. All good.
+10. Added outlines to the main and the footer to check layout is okay. All is good.
+11. Removed the outlines and updated the README to finalize and submit.
 
 
 ### Built with
@@ -52,14 +53,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-During this challenge, I learned that running my files through chat gpt is somewhat helpful, but also, not really... it doesn't get it right too often. I am sure claude and other dedicated programming/coding AI would be better, I just want to learn all that first. I do think it was good for me to actually fix the code that chat gpt messed up. That helped to solidify what I already know.  I had to fix so much too. I still refer to w3schools and mdn for reference, like custom css properties.  
+During this challenge, I learned that running my files through chat gpt is somewhat helpful, but also, not really... it doesn't get it right too often. I am sure claude and other dedicated programming/coding AI would be better, I just want to ensure I understand the code first before I start using AI too much. I do think it was good for me to actually fix the code that chat gpt messed up. That helped to solidify what I already knew.  I had to fix so much that the AI suggested too. Sure, it can help with minor stuff, but if you don't know what you're doing, you can really make a big mess of things. I will always, ALWAYS refer to w3schools and mdn for reference and never just trust AI. It's too risky and honestly, where's the fun in using AI anyway!
 
-In this challenge, I learned custom css properties and how to set them up. Never used those before, and honestly, didn't even know they existed. It was quite nice to use it. I also tried out some more flexbox because I'd really like to be fully capable of setting a flexbox layout anytime I feel it would be best used. 
+In this challenge, I also learned custom css properties and how to set them up. Never used those before, and honestly, didn't even know they existed. It was quite nice to use. I also tried out some more flexbox because I'd really like to be fully capable of setting a flexbox layout anytime I feel it would be best used, as it is just so great at responsiveness.
 
 
 ### Continued development
 
-For future challenges, I'd like to continue to practice using css custom properties and see just how in depth I can get with those. I'd also like to continue to work on layouts. I have more grid experience but it's been a while since I've used it so I'd like to do a challenge that would suit that. Learning more about Psuedo-elements too is on my list of what I'd like to focus on next.
+For future challenges, I'd like to continue to practice using css custom properties and see just how in depth I can get with those. I'd also like to continue to work on layouts. I have more grid experience but it's been a while since I've used it so I'd like to do a challenge that could incorperate that so I can refresh my memory on it. Learning more about Psuedo-elements too is on my list of what I'd like to focus on next. I've used them before. I just want to understand them a bit better so I know when is the best time to use them. 
 
 ### Useful resources
 
@@ -69,7 +70,7 @@ For future challenges, I'd like to continue to practice using css custom propert
 
 ### AI Collaboration
 
-I used ChatGPT to troubleshoot some issues I was having with the layout being responsive and to look for anything I may have missed in the html setup, and also to learn about css custom properties. It did help somewhat, but there were a few misleading suggestions that I had to fix up on my own. It was handy, but I absolutely would not use this tool on its own. I had far better luck looking up info on MDN and W3Schools. 
+I used ChatGPT to troubleshoot some issues I was having with the layout being responsive and to look for anything I may have missed in the html setup, and also to learn about css custom properties. It did help somewhat, but there were a few misleading suggestions that I had to fix up on my own. It was handy, but I absolutely would not use this tool on its own. I had far better luck looking up info on MDN and W3Schools. I will continue to keep AI collaboration to a minimum or not at all.  
 
 ## Author
 
